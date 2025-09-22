@@ -37,3 +37,4 @@ git push -u origin master
 
 # Pushes future commits after the first time
 git push
+now pushing from github or editing or adding from github
